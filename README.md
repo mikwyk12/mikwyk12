@@ -11,6 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-<!-- duolingo -->
-
-
+### Duolingo Stats 🦉
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=796980559&theme=github-dark)
