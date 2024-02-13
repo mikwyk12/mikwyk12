@@ -10,3 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- duolingo -->
+
+
